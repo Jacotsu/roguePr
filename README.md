@@ -6,10 +6,8 @@ just a hackish rogue "game" made as homework
    di usare una live o una macchina virtuale
 1. Installate il pacchetto aplay se volete un "supporto audio"
 1. Per compilare:
-
-       1. spostatevi nella cartella del sorgente con il comando cd
-       2. usare il comando "gcc rogueGame.c -o rogueGameR.elf -lm"
-
+   1. spostatevi nella cartella del sorgente con il comando cd
+   2. usare il comando "gcc rogueGame.c -o rogueGameR.elf -lm"
 1. Per giocare digitate il comando ./rogueGameR.elf
 
 NB: se volete giocare con il sorgente ricordatevi di
